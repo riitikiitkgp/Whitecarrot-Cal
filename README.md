@@ -1,13 +1,12 @@
 # Whitecarrot-Cal  
 
-**Whitecarrot-Cal** is a calendar application designed to streamline scheduling, improve time management, and provide an intuitive user experience. This project aims to make organizing your life easier with clean design and efficient functionality.  
+**Whitecarrot-Cal** is a calendar application designed to check on your calender with the filter of date ranges as well as all the events the can be fetched on your google account.
 
 ## Features  
 
-- **User-Friendly Interface**: A clean and responsive design that makes it easy to view and manage your schedule.  
-- **Event Management**: Add, edit, and delete events effortlessly.  
+- **User-Friendly Interface**: A clean and responsive design that makes it easy to view and manage your schedule. 
 - **Customizable Views**: Switch between daily, weekly, or monthly calendar views based on your preferences.  
-- **Reminders**: Set up reminders for events and never miss an important task or meeting.  
+- **Reminders**: One place to see for events and never miss an important task or meeting.  
 - **Cross-Platform Compatibility**: Access your calendar across multiple devices seamlessly.  
 
 ## Installation  
@@ -25,7 +24,7 @@
   npm install
 
 4. Run the application:
-  ```bash
+   ```bash
   npm start  
 
 5. Open the application in your browser:
