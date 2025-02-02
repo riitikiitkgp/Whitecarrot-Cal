@@ -9,6 +9,8 @@
 - **Reminders**: One place to see for events and never miss an important task or meeting.  
 - **Cross-Platform Compatibility**: Access your calendar across multiple devices seamlessly.  
 
+Make sure you've already installed next.js and all the other dependencies on your machine.
+
 ## Installation  
 
 1. Clone this repository:  
@@ -19,14 +21,6 @@
    ```bash
    cd Whitecarrot-Cal
 
-3. Install dependencies:
+3. Running command: 
   ```bash
-  npm install
-
-4. Run the application:
-   ```bash
-  npm start  
-
-5. Open the application in your browser:
-  ```arduino
-  http://localhost:3000  
+  npm run dev
